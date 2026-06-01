@@ -10,8 +10,5 @@ My personal portfolio website showcasing my profile, skills, projects, education
 Visual Studio Code
 HTML
 
-## Screenshots:
-
-
 ## Live Website link:
 file:///C:/Users/Austi/OneDrive/Desktop/vs%20code/PT.html
